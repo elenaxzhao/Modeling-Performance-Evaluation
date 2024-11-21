@@ -1,6 +1,3 @@
-Welcome file
-Welcome file
-
 # Queueing System Simulator
 
 This project provides a Python-based simulation for M/M/1 and M/M/2 queueing systems. The simulator models queue behaviors and computes key metrics like average response time, queue length, and server utilization. It is designed for both academic and practical insights into queueing theory.
